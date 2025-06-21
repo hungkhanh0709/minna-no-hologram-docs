@@ -5,6 +5,8 @@ This project provides all the technical and user documentation for the Minna-no-
 
 ## Table of Contents
 
+- [Target Users](#target-users)
+- [Use Cases](#use-cases)
 - [Getting Started](docs/getting-started/quickstart.md)
   - [Installation](docs/getting-started/installation.md)
   - [Prerequisites](docs/getting-started/prerequisites.md)
@@ -21,6 +23,22 @@ This project provides all the technical and user documentation for the Minna-no-
 - [Contributing](.github/CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [License](LICENSE)
+
+## Target Users
+
+Minna-no-Hologram is designed for:
+
+- **Learners** (K-12, university students, lifelong learners) interested in exploring and understanding hologram technology and content.
+- **DIY-ers / Makers** who want to build their own hologram devices and follow hands-on projects.
+
+## Use Cases
+
+Common scenarios for using the platform include:
+
+- Browsing and watching featured or trending hologram videos.
+- Searching for specific hologram content by keyword or category.
+- Reading and following DIY articles to create your own hologram projects.
+- Liking videos or articles to show appreciation.
 
 ## Overview
 
